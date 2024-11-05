@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Meu nome é Moisés Lucas Pereira, ou apenas Lucas.Pr! 
-Atualmente estudando em uma jornada para Dev Jr em Py <strong>sua stack</strong>.<br>
+Atualmente estudando em uma jornada para  <strong>Dev Jr em Py</strong>.<br>
   Sou um apaixonado por tecnologia. Estudante, em uma nova jornada, buscando fazer o mundo um lugar melhor! (mesmo com meus 0,01% de participação)
 </p>
 
