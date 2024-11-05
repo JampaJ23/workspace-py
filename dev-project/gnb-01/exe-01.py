@@ -1,10 +1,9 @@
-# Desafio:
+# 05-nov
 
-# nome = input('Qual é o seu nome?')
-# print ('Olá,' ,nome, '! Prazer em te cochecer.')
-
+nome = input('Qual é o seu nome?')
+print ('Olá,' ,nome, '! Prazer em te cochecer.')
 # Estou agregando o input NOME a sintaxe, usando (,)
-# p/ encaixar com o restante do texte, re-utilizo (,) assim dando continuidade 
+# p/ encaixar com o restante do texte, re-utilizo (,) assim dando continuidade na sintaxe
 
 # Desafio: 01
 nome = input('Qual é o seu nome? ')
@@ -26,4 +25,5 @@ n2 = int (input('Agora, o segundo numero: '))
 soma = n1 + n2 # -> soma = int(n1) + int(n2)
 print ("A soma dos valores" ,n1, "e" ,n2, "é:" ,soma,)
 # obs: int pode ser usado na linha do INPUT ou na SOMA dos valores.
-
+# usa (,) ou (+) são coisas diferentes p/ linguagem py
+# numeros devem ser identificados corretamente. Ex: str, int, float, bool, 2f, list
