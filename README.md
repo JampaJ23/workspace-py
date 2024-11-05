@@ -8,8 +8,7 @@ Atualmente estudando em uma jornada para  <strong>Dev Jr em Py</strong>.<br>
 
 <p align="left">
   🦄 Linguagens:
-  <p Python.
-    </p>
+  <p Python.</p>
 </p>
 
 <p align="left">
