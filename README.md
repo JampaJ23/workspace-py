@@ -7,10 +7,10 @@ Atualmente estudando em uma jornada para  <strong>Dev Jr em Py</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python.**
+  🦄 Linguagens: Python.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: Python, VS Code, Git & Git Hub.
 </p>
 
