@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Sou um apaixonado por tecnologia. Estudante, em uma nova jornada, buscando fazer o mundo um lugar melhor! (mesmo com meus 0,01% de participação)
 </p>
 
 <p align="left">
