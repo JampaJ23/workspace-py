@@ -11,6 +11,6 @@ Atualmente estudando em uma jornada para  <strong>Dev Jr em Py</strong>.<br>
 </p>
 
 <p align="left">
-  💼 Ferramentas: Python, Visual Studio Code, Git & GitHub.
+  💼 Ferramentas: Python, VS Code, Git & GitHub.
 </p>
 
