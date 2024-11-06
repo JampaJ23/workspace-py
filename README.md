@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Meu nome é Moisés Lucas Pereira, ou apenas Lucas.Pr! 
-Atualmente estudando em uma jornada para  <strong>Dev Jr em Py</strong>.<br>
+Atualmente estudando em uma jornada para  <strong>Dev Jr</strong>.<br>
   Sou um apaixonado por tecnologia. Estudante, em uma nova jornada, buscando fazer o mundo um lugar melhor! (mesmo com meus 0,01% de participação)
 </p>
 
@@ -11,6 +11,6 @@ Atualmente estudando em uma jornada para  <strong>Dev Jr em Py</strong>.<br>
 </p>
 
 <p align="left">
-  💼 Ferramentas: Python, Visual Studio Code, Git & GitHub.
+  💼 Ferramentas: Python, VS Code, Git & GitHub.
 </p>
 
