@@ -16,4 +16,3 @@ print(f"O valor inteiro é: {10: d}") # d formata p/ decimal
 print(f"O valor em binario é: {23: b}") # binario 
 print(f"Pi: {3.14159265: f}")
 print(f"Pi: {3.14159265: .2f}")
-
