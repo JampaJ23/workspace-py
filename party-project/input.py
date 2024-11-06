@@ -15,3 +15,8 @@ print(f'O perimetro são: {mt} metros. Correto?')
 # Desta maneira, os dados do input são devidamente SALVOS;
 # Importante: Desta forma, PRECISAM ser formatados os f-strings corretamente;
 
+nome = input('Insira seu nome: ')
+tel = input('Insira seu telefone: ')
+rgn = input('Insira seu RG: ')
+print(f'Nome de usuario: {nome}, telefone: {tel}, RG {rgn}')
+
