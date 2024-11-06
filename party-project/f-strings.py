@@ -1,6 +1,7 @@
 # 06-nov 
 # Saída de dados com print() e f-strings {}
-# exemplo:
+# exemplos:
+
 a = 5 
 b = 10 
 print(f"A soma de {a} e {b} é {a + b}.")
