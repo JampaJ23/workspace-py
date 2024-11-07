@@ -1,10 +1,7 @@
 # usar apenas para rodar codes em aprendizado!
 
-id = int(input('Digite seu ID: '))
-nome = input('Digite seu nome: ')
-salario = float(input('Qual sua renda hoje: '))
-brz = bool(input('Você é Brasileiro? (S para Sim, ou, N para Não)'))
-print(f'Nome: {nome}\nID: {id}\nSalario: {salario}\nBrasileiro: {brz}') # Ainda nao aperfeiçoado.
-# Resposta bool, não está respondendo conforme esperado;
-
-print('test')
+n1 = float(input('Digite um numero: '))
+n2 = float(input('Digite o segundo numero: '))
+n3 = float(input('Digite o terceiro numero: '))
+nt = n1 + n2 + n3
+print(f'O resultado da media, dos tres valores digitados anteriormente é: {nt / 3: .2f}')
