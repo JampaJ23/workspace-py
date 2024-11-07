@@ -1,6 +1,6 @@
 # 06-nov
 # Entrada de dados com input()
-# Exemplos:
+# Exemplos: info = input('Digite a informação aqui:')
 
 print('O perimetro em metros é: ', input('Qual é o perimetro em metros?'))
 

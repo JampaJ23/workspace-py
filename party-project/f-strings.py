@@ -1,6 +1,6 @@
 # 06-nov 
 # Saída de dados com print() e f-strings {}
-# exemplos:
+# exemplos: print(f"Informação")
 
 a = 5 
 b = 10 
