@@ -5,8 +5,7 @@
   Learning is ♾ ... but, practice is daily! make it fun
 </p>
 
-<p align="left">
-  🦄 Linguagens: Python.
+
 </p>
 
 <p align="left">
