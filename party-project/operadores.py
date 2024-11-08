@@ -1,6 +1,6 @@
-# Operadores e expressões aritméticas
-# Introdução: Em Python, operadores e expressões aritméticas são fundamentais para realizar cálculos e manipulações numéricas.
-# Fonte: (https://www.bosontreinamentos.com.br/programacao-em-python/7-python-operadores-e-expressoes-aritmeticas/)
+    # Operadores e expressões aritméticas
+    # Introdução: Em Python, operadores e expressões aritméticas são fundamentais para realizar cálculos e manipulações numéricas.
+    # Fonte: (https://www.bosontreinamentos.com.br/programacao-em-python/7-python-operadores-e-expressoes-aritmeticas/)
 
 n1 = float(input('Digite um numero: ')) 
 n2 = float(input('Digite o segundo numero: '))

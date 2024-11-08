@@ -1,6 +1,6 @@
-# Funções nativas (built-in functions)
-# Introdução: Em Python, funções nativas (ou built-in functions) são aquelas que estão sempre disponíveis, sem a necessidade de importar módulos ou bibliotecas adicionais. Elas fazem parte da linguagem Python e são amplamente utilizadas devido à sua eficiência e simplicidade.
-# Fontes: (https://docs.python.org/pt-br/3/library/functions.html)
+    # Funções nativas (built-in functions)
+    # Introdução: Em Python, funções nativas (ou built-in functions) são aquelas que estão sempre disponíveis, sem a necessidade de importar módulos ou bibliotecas adicionais. Elas fazem parte da linguagem Python e são amplamente utilizadas devido à sua eficiência e simplicidade.
+    # Fontes: (https://docs.python.org/pt-br/3/library/functions.html)
 '''
 ~> Funções de Manipulação de Strings
     len(): Retorna o comprimento de uma string.

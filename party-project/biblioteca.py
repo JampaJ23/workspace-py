@@ -1,6 +1,6 @@
-# Biblioteca Python (também conhecida como "Standard Library")
-# Introdução: A biblioteca padrão do Python é uma coleção robusta de módulos e pacotes que vêm integrados com a instalação padrão do Python. Esses módulos fornecem uma ampla gama de funcionalidades, desde manipulação de arquivos e processamento de texto até operações matemáticas avançadas e criação de servidores web.
-# Fontes: (https://docs.python.org/pt-br/3/library/index.html)
+    # Biblioteca Python (também conhecida como "Standard Library")
+    # Introdução: A biblioteca padrão do Python é uma coleção robusta de módulos e pacotes que vêm integrados com a instalação padrão do Python. Esses módulos fornecem uma ampla gama de funcionalidades, desde manipulação de arquivos e processamento de texto até operações matemáticas avançadas e criação de servidores web.
+    # Fontes: (https://docs.python.org/pt-br/3/library/index.html)
 '''
 ~> Manipulação de Arquivos e Diretórios
     os: Fornece funções para interagir com o sistema operacional.

@@ -1,6 +1,6 @@
-# Variáveis, tipos de dados e atribuição
-# Introdução: As variáveis em Python são usadas para armazenar informações que podem ser referenciadas e manipuladas em um programa. Uma variável pode ser vista como um "rótulo" que aponta para um valor ou um objeto na memória.
-# Fonte: (https://hub.asimov.academy/tutorial/entendendo-variaveis-em-python/)
+    # Variáveis, tipos de dados e atribuição
+    # Introdução: As variáveis em Python são usadas para armazenar informações que podem ser referenciadas e manipuladas em um programa. Uma variável pode ser vista como um "rótulo" que aponta para um valor ou um objeto na memória.
+    # Fonte: (https://hub.asimov.academy/tutorial/entendendo-variaveis-em-python/)
 
 nome = int(input('Digite o dia de seu nascimento: '))
     # Possuem "Tipo", "Nome" e "Conteudo";

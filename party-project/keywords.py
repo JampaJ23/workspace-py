@@ -1,6 +1,6 @@
-# Palavras reservadas (keywords)
-# Introdução: As keywords (ou palavras-chave) em Python são termos reservados que têm um significado especial e predefinido na linguagem. Elas são fundamentais para definir a estrutura e a lógica de um programa em Python. Essas palavras não podem ser usadas como identificadores, como nomes de variáveis, funções, classes ou qualquer outro identificador.
-# Fonte: (https://prt.python-3.com/?p=299#gsc.tab=0) 
+    # Palavras reservadas (keywords)
+    # Introdução: As keywords (ou palavras-chave) em Python são termos reservados que têm um significado especial e predefinido na linguagem. Elas são fundamentais para definir a estrutura e a lógica de um programa em Python. Essas palavras não podem ser usadas como identificadores, como nomes de variáveis, funções, classes ou qualquer outro identificador.
+    # Fonte: (https://prt.python-3.com/?p=299#gsc.tab=0) 
 '''
     False: Representa o valor booleano falso.
     None: Representa a ausência de valor.
