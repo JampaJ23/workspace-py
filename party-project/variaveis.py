@@ -3,12 +3,12 @@
 # Fonte: (https://hub.asimov.academy/tutorial/entendendo-variaveis-em-python/)
 
 nome = int(input('Digite o dia de seu nascimento: '))
-# Possuem "Tipo", "Nome" e "Conteudo";
-# Deve se formatar corretamente.
-# NÃO pode começar com numeros. Usar _1, _2, _3;
-# NÃO pode contar caracteres especiais ou espaço;
-# NÃO pode haver DOIS iguais;
-# Python é case sensitive.
+    # Possuem "Tipo", "Nome" e "Conteudo";
+    # Deve se formatar corretamente.
+    # NÃO pode começar com numeros. Usar _1, _2, _3;
+    # NÃO pode contar caracteres especiais ou espaço;
+    # NÃO pode haver DOIS iguais;
+    # Python é case sensitive.
 
 idade = int(input('Digite sua idade: '))
 altura = float(input('Qual a sua altura: '))

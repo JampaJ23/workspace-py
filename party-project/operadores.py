@@ -4,7 +4,7 @@
 
 n1 = float(input('Digite um numero: ')) 
 n2 = float(input('Digite o segundo numero: '))
-# Float foi chamado, pois, os valores poder ser decimais; (33.3, 9.5, 0.33)
+    # Float foi chamado, pois, os valores poder ser decimais; (33.3, 9.5, 0.33)
 soma = n1 + n2
 subt = n1 - n2
 mult = n1 * n2
@@ -36,6 +36,6 @@ n2 = float(input('Digite o segundo numero: '))
 n3 = float(input('Digite o terceiro numero: '))
 nt = n1 + n2 + n3
 print(f'O resultado da media, dos tres valores digitados anteriormente é: {nt / 3: .2f}')
-# o formatação do valor numerico, é feita apos (:), separando o valor ao formato;
-# ex: { xxx: <formatação>}
+    # o formatação do valor numerico, é feita apos (:), separando o valor ao formato;
+    # ex: { xxx: <formatação>}
 

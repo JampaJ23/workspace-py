@@ -1,5 +1,11 @@
 # Usar apenas para rodar codes em aprendizado!
 
-texto = input("Digite uma palavra ou frase: ")
-tamanho = len(texto)
-print(f"A palavra ou frase '{texto}' contém {tamanho} caracteres.")
+# Definindo um número 
+numero = 10 
+# Verificando se o número é positivo, negativo ou zero
+if numero > 0: 
+    print("O número é positivo.") 
+    elif numero < 0: 
+    print("O número é negativo.") 
+    else: 
+    print("O número é zero.")
