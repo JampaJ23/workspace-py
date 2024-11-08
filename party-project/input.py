@@ -1,6 +1,6 @@
-# 06-nov
 # Entrada de dados com input()
-# Exemplos: info = input('Digite a informação aqui:')
+# Introdução: Em Python, a função input() é usada para receber dados do usuário durante a execução de um programa. Esta função pausa a execução do programa e espera que o usuário digite algum texto no console, que então é retornado como uma string. É uma ferramenta essencial para criar programas interativos.
+# Fonte: (https://hub.asimov.academy/tutorial/entendendo-a-funcao-input-em-python/)
 
 print('O perimetro em metros é: ', input('Qual é o perimetro em metros?'))
 

@@ -1,6 +1,6 @@
-# 06-nov 
 # Saída de dados com print() e f-strings {}
-# exemplos: print(f"Informação")
+# Introdução: As f-strings (formatted string literals) foram introduzidas no Python 3.6 e fornecem uma maneira prática e eficiente de formatar strings. Elas permitem a inclusão de expressões dentro de uma string, que são avaliadas no momento da execução, tornando o código mais legível e conciso.
+# Fonte: (https://pythonacademy.com.br/blog/f-strings-no-python)
 
 a = 5 
 b = 10 
