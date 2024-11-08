@@ -4,7 +4,7 @@
 
 nome = int(input('Digite o dia de seu nascimento: '))
     # Possuem "Tipo", "Nome" e "Conteudo";
-    # Deve se formatar corretamente.
+    # Deve se formatar corretamente;
     # NÃO pode começar com numeros. Usar _1, _2, _3;
     # NÃO pode contar caracteres especiais ou espaço;
     # NÃO pode haver DOIS iguais;

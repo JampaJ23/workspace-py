@@ -13,7 +13,7 @@ print('Confirme se a data esta correta, por favor: ', input('Qual a data da prox
 mts = input('Qual é o perimetro em metros? ')
 print(f'O perimetro são: {mts} metros. Correto?')
     # Desta maneira, os dados do input são devidamente SALVOS;
-    # Importante: Desta forma, PRECISAM ser formatados os f-strings corretamente;
+    # Importante: Desta forma, PRECISAM ser formatados os f-strings corretamente.
 
 nome = input('Insira seu nome: ')
 tel = input('Insira seu telefone: ')

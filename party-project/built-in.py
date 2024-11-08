@@ -29,8 +29,8 @@
     enumerate(): Cria um iterador que produz pares de índice/valor a partir de um iterável.
 '''
 
-lista = [10, 20, 30, 40, 50] # os [ ] apareceram na print
-tamanho = len(lista) # len é uma função nativa
+lista = [10, 20, 30, 40, 50] # os [ ] apareceram na print.
+tamanho = len(lista) # len é uma função nativa.
 print(f'Na lista {lista} à {tamanho} valores.')
 
 lista = [10, 20, 30, 40, 50]

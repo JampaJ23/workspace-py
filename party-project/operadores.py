@@ -3,12 +3,11 @@
     # Fonte: (https://www.bosontreinamentos.com.br/programacao-em-python/7-python-operadores-e-expressoes-aritmeticas/)
 
 n1 = float(input('Digite um numero: ')) 
-n2 = float(input('Digite o segundo numero: '))
-    # Float foi chamado, pois, os valores poder ser decimais; (33.3, 9.5, 0.33)
+n2 = float(input('Digite o segundo numero: ')) # Float foi chamado, pois, os valores podem ser decimais;
 soma = n1 + n2
 subt = n1 - n2
 mult = n1 * n2
-div = n1 / n2 # Valor mais proximo, a ser dividido; (QUOCIENTE)
+div = n1 / n2 # Valor mais proximo, a ser dividido (QUOCIENTE).
 divr = n1 % n2 # Resultado do restante da divisão.
 
 print(f'A soma dos valores é: {soma}')

@@ -5,7 +5,7 @@
 a = 5 
 b = 10 
 print(f"A soma de {a} e {b} é {a + b}.")
-    # A soma de 5 e 10 é 15.
+    # A soma de 5 e 10 é 15;
     # {} abre e fecha os formatadores.
 
 print(f"Preço: R$ {25.12345: .2f}")
