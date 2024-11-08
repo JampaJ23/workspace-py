@@ -2,7 +2,7 @@
 
 <p align="left"> 
   
-  ~  Learning is ♾ ... but, practice is daily! make it fun
+  ~>  Learning is ♾ ... but, practice is daily! make it fun
 </p>
 
 
