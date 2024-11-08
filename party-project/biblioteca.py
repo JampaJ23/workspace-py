@@ -45,3 +45,16 @@ itertools: Fornece funções para criar geradores de iteração complexos.
 logging: Oferece uma maneira flexível de gerar logs.
 traceback: Fornece utilitários para formatar e imprimir rastreamentos de pilha.
 '''
+
+import math
+x = 16
+raiz_quadrada = math.sqrt(x)
+print(f'Raiz quadrada de {x} é igual a {raiz_quadrada}')
+
+import os
+diretorio_atual = os.getcwd() # (get current working directory)
+print(f'O diretório atual é {diretorio_atual}')
+ # import chama a biblioteca Python;
+ # Sempre chamar a biblioteca antes;
+ # Fechar parênteses, não basta apenas chamar o comando; Ex: math, getcwd, system.
+ 

@@ -10,8 +10,8 @@ print('Confirme se a data esta correta, por favor: ', input('Qual a data da prox
 # Aqui temos exemplos de INPUT dentro do print;
 # Importante: Desta forma o dado do input NÃO é salvo, apenas, informado no print.
 
-mt = input('Qual é o perimetro em metros? ')
-print(f'O perimetro são: {mt} metros. Correto?')
+mts = input('Qual é o perimetro em metros? ')
+print(f'O perimetro são: {mts} metros. Correto?')
 # Desta maneira, os dados do input são devidamente SALVOS;
 # Importante: Desta forma, PRECISAM ser formatados os f-strings corretamente;
 

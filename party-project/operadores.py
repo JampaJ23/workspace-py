@@ -38,3 +38,4 @@ nt = n1 + n2 + n3
 print(f'O resultado da media, dos tres valores digitados anteriormente é: {nt / 3: .2f}')
 # o formatação do valor numerico, é feita apos (:), separando o valor ao formato;
 # ex: { xxx: <formatação>}
+
