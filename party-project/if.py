@@ -9,5 +9,5 @@
     Menor (<): <
     Menor ou Igual (<=): < =
     Igual (=): = =
-    Diferente (!=): ! =
+    Diferente (≠): ! =
 '''
