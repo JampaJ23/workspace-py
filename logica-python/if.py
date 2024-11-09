@@ -5,9 +5,9 @@
 '''
 ~> Operadores Relacionais:
     Maior (>): >
-    Maior ou Igual (>=): > =
+    Maior ou Igual (≥): > =
     Menor (<): <
-    Menor ou Igual (<=): < =
+    Menor ou Igual (≤): < =
     Igual (=): = =
     Diferente (≠): ! =
 '''
