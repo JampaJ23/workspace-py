@@ -57,4 +57,4 @@ print(f'O diretório atual é {diretorio_atual}')
      # import chama a biblioteca Python;
      # Sempre chamar import com a biblioteca antes;
      # Fechar parênteses, não basta apenas chamar o comando; Ex: math, getcwd, system.
- 
+

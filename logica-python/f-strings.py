@@ -42,6 +42,6 @@ print("Como você está?")
 print("Olá", "mundo", "!", sep="-")
     # Saida: Olá-mundo-!
 print("Olá", "mundo", "!", sep="_")
-    # Saida: Olá_mundo_!
+    # Saida: Olá_mundo_! 
     # ou seja, permite controlar como os itens passados para a função print() são separados.
 
