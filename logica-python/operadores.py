@@ -38,4 +38,4 @@ print(f'O resultado da media, dos tres valores digitados anteriormente é: {nt /
     # o formatação do valor numerico, é feita apos (:), separando o valor ao formato;
     # ex: { xxx: <formatação>}
 
-fff
+    
