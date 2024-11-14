@@ -36,7 +36,7 @@ else:
 #---------- if Aninhado
 conta_normal = True
 conta_universitaria = False
-    # Valores setados, apenas para sumilação;
+    # Valores setados, apenas para sumilação; (True,False)
     # Em uma situação real, estas variaveis podem mudar.
 saldo = 2000
 saque = 2500

@@ -1,8 +1,7 @@
 # Usar apenas para rodar codes em aprendizado!
 
-#---------- if Ternario
-saldo = 2000
-saque = 500
-
-status = "Sucesso" if saldo >= saque else "Falha"
-print(f'{status} ao realizar o saque!')
+h = 10
+while h >= 1: # Enquanto 'h' ser maior ou igual, continua se o loop.
+    print(h, " ", end="") # Loop ira subtraira varialvel até que chege a 'seu' limite.
+    h -= 1 # Quando o loop atingir '1', ira checar seu limitador e parar.
+print()
