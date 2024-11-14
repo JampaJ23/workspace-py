@@ -9,6 +9,6 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: Python, VS Code, Git & GitHub.
+  💼 Languages ​​and Tools: Python, VS Code, Git & GitHub.
 </p>
 
