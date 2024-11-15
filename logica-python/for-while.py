@@ -2,6 +2,9 @@
     # Estruturas de repetição for e while em Python. Esses loops são fundamentais para a programação, pois permitem que você execute um bloco de código várias vezes com base em certas condições.
     # Fontes: (https://blog.rocketseat.com.br/python-dominando-loops/)
 
+from ast import While
+
+
 i = 1
 while i <= 10:
     print(i, " ", end="")
@@ -19,7 +22,7 @@ print()
      # Loop ira subtraira varialvel 'h' até que chege a 'seu' limite. (1)
      # Quando o loop atingir a 1, ira checar seu limitador e parar.
 
-while True: # Loot continuo, ate que encontra um porem. (if,elif/else)
+While True: # Loot continuo, ate que encontra um porem. (if,elif/else)
     usuario = int(input("Digite um número: "))
     if usuario == 0: # 'if' o numero seja (=) a 0, para. (break)
         print()
