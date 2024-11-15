@@ -1,5 +1,3 @@
-# Usar apenas para rodar codes em aprendizado!
-
     # Fatiamento (slicing) em Python
     # Introdução: O fatiamento (slicing) em Python permite que você extraia partes de uma string usando a notação de colchetes com índices.
     # Fonte: (https://docs.python.org/pt-br/3.12/c-api/slice.html)
@@ -19,4 +17,3 @@ my_name[::-1]
 my_name[10:]
     # 'Arthur de Carvalho'
 
-...
