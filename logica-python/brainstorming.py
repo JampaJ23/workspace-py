@@ -34,8 +34,9 @@ saldo = 0
 SAQUE_CAIXA = 3
 SAQUE_LIMITE_CAIXA = 500
 SAQUE_LIMITE_DIA = 1500
-# saque_limite_diario = 1500
-# saque_dia = float(sacar -= saque_limite_diario)
+saque_limite_diario = SAQUE_LIMITE_DIA
+saque_caixa_dia = SAQUE_CAIXA
+cliente_limite_dia = ...
 
 
 while True:
@@ -78,3 +79,4 @@ while True:
             break
         else:
             menu
+
