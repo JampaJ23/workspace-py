@@ -30,18 +30,22 @@ Sair: [4]
 
 
 saldo = 0
-SAQUE_LIMITE = 1500
-SAQUE_CAIXA = 500
-SAQUE_DIA = 3
+
+SAQUE_CAIXA = 3
+SAQUE_LIMITE_CAIXA = 500
+SAQUE_LIMITE_DIA = 1500
+saque_limite_atual = 1500
+saque_caixa_atual = 3
+
 
 while True:
 
-    opcao = (input(menu))
+    opcao = int(input(menu))
 
     if opcao == 1:
         deposito = float(input('Digite o valor a ser depositado em sua conta: '))
         saldo += deposito
-        print(f'Seu novo saldo é de: {saldo}')
+        print(f'Seu novo saldo é de: {saldo: .2f}')
         escolha = int(input('Deseja voltar ao menu? [1] SIM ou [2] para NÂO: '))
         if escolha > 1:
             print('Obrigado por usar nosso banco!')
@@ -56,8 +60,12 @@ while True:
             if escolha > 1:
                 print('Obrigado por usar nosso banco!')
                 break
-            else:
-                print(f'Seu no saldo é de: R$ {saldo: .2f} - {sacar}')
+        if (saldo > sacar and SAQUE_LIMITE_CAIXA < sacar):
+            print(f'Seu novo saldo é de: R$ {saldo - sacar}')
+            escolha = int(input('Deseja voltar ao menu? [1] SIM ou [2] para NÂO: '))
+            if escolha > 1:
+                print('Obrigado por usar nosso banco!')
+                break
     if opcao == 3:
         print(f'Seu saldo atual é de: R$ {saldo: .2f}')
         escolha = int(input('Deseja voltar ao menu? [1] SIM ou [2] para NÂO: '))
