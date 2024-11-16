@@ -34,8 +34,8 @@ saldo = 0
 SAQUE_CAIXA = 3
 SAQUE_LIMITE_CAIXA = 500
 SAQUE_LIMITE_DIA = 1500
-saque_caixa_diario = 3
-saque_dia = SAQUE_LIMITE_DIA / SAQUE_LIMITE_CAIXA
+# saque_limite_diario = 1500
+# saque_dia = float(sacar -= saque_limite_diario)
 
 
 while True:
