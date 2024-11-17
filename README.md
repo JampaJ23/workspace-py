@@ -16,3 +16,11 @@ Python é uma linguagem de programação de alto nível, interpretada e de prop�
 - Inteligência Artificial e Machine Learning: Com bibliotecas como TensorFlow, PyTorch e Keras, Python é uma escolha comum para o desenvolvimento de soluções de IA.
 - Desenvolvimento de Jogos: Embora menos comum, Python pode ser usado para desenvolvimento de jogos com bibliotecas como Pygame.
 - Aplicações Científicas e Numéricas: É muito utilizada em pesquisa e aplicações científicas devido à sua precisão e facilidade de uso.
+## Fontes:
+https://roadmap.sh/python
+
+https://docs.python.org/pt-br/3/contents.html
+
+https://www.w3schools.com/python/default.asp
+
+https://blog.betrybe.com/python/aprender-python/
