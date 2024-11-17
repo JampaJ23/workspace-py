@@ -17,6 +17,7 @@ Python é uma linguagem de programação de alto nível, interpretada e de prop�
 - Desenvolvimento de Jogos: Embora menos comum, Python pode ser usado para desenvolvimento de jogos com bibliotecas como Pygame.
 - Aplicações Científicas e Numéricas: É muito utilizada em pesquisa e aplicações científicas devido à sua precisão e facilidade de uso.
 ## Fontes:
+### Leitura
 https://roadmap.sh/python
 
 https://docs.python.org/pt-br/3/contents.html
@@ -24,3 +25,5 @@ https://docs.python.org/pt-br/3/contents.html
 https://www.w3schools.com/python/default.asp
 
 https://blog.betrybe.com/python/aprender-python/
+### Videos
+https://www.youtube.com/watch?v=wC_mwNUT48s&list=PLpaKFn4Q4GMN1A4J1FnhW_anOGt8ug8ip
