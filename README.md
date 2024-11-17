@@ -30,4 +30,6 @@ https://www.youtube.com/watch?v=wC_mwNUT48s&list=PLpaKFn4Q4GMN1A4J1FnhW_anOGt8ug
 
 https://www.youtube.com/watch?v=yTQDbqmv8Ho&t=7322s
 ### 👇🏻 Repositorios
+https://github.com/freeCodeCamp/freeCodeCamp
+
 https://github.com/guicarvalho/python-os-primeiros-passos
