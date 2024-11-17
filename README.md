@@ -32,4 +32,6 @@ https://www.youtube.com/watch?v=yTQDbqmv8Ho&t=7322s
 ### 👇🏻 Repositorios
 https://github.com/freeCodeCamp/freeCodeCamp
 
+https://github.com/practical-tutorials/project-based-learning
+
 https://github.com/guicarvalho/python-os-primeiros-passos
