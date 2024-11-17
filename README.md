@@ -27,3 +27,5 @@ https://www.w3schools.com/python/default.asp
 https://blog.betrybe.com/python/aprender-python/
 ### Videos
 https://www.youtube.com/watch?v=wC_mwNUT48s&list=PLpaKFn4Q4GMN1A4J1FnhW_anOGt8ug8ip
+
+https://www.youtube.com/watch?v=yTQDbqmv8Ho&t=7322s
