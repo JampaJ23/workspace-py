@@ -29,5 +29,5 @@ https://blog.betrybe.com/python/aprender-python/
 https://www.youtube.com/watch?v=wC_mwNUT48s&list=PLpaKFn4Q4GMN1A4J1FnhW_anOGt8ug8ip
 
 https://www.youtube.com/watch?v=yTQDbqmv8Ho&t=7322s
-### Repositorios
+### 👇🏻 Repositorios
 https://github.com/guicarvalho/python-os-primeiros-passos
